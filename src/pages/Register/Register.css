@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f6fa;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
+.register-container {
+  width: 308px;
+  height: 683px;
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  padding: 24px 16px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.register-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1d1d1d;
+  margin-bottom: 24px;
+}
+
+.required-star {
+  color: red;
+}
+.input-group {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.register-label {
+  position: absolute;
+  top: -8px;
+  left: 12px;
+  background-color: white;
+  padding: 0 4px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #7b2ff2;
+  z-index: 1;
+}
+
+.register-input {
+  width: 100%;
+  padding: 14px 12px;
+  border: 1px solid #d9d9d9;
+  border-radius: 8px;
+  font-size: 14px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.radio-group {
+  margin-top: 16px;
+}
+
+.radio-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: #7b2ff2;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.radio-options {
+  display: flex;
+  gap: 20px;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #1d1d1d;
+}
+
+.radio-option input {
+  margin-right: 6px;
+  accent-color: #7b2ff2;
+}
+.register-button {
+  width: 100%;
+  background-color: #7b2ff2;
+  color: white;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: auto;
+  cursor: pointer;
+}
