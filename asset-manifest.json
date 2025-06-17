@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/popx_ui/static/css/main.12c422ff.css",
-    "main.js": "/popx_ui/static/js/main.e4b88184.js",
+    "main.css": "/popx_ui/static/css/main.9822fa77.css",
+    "main.js": "/popx_ui/static/js/main.4327452a.js",
     "index.html": "/popx_ui/index.html",
-    "main.12c422ff.css.map": "/popx_ui/static/css/main.12c422ff.css.map",
-    "main.e4b88184.js.map": "/popx_ui/static/js/main.e4b88184.js.map"
+    "main.9822fa77.css.map": "/popx_ui/static/css/main.9822fa77.css.map",
+    "main.4327452a.js.map": "/popx_ui/static/js/main.4327452a.js.map"
   },
   "entrypoints": [
-    "static/css/main.12c422ff.css",
-    "static/js/main.e4b88184.js"
+    "static/css/main.9822fa77.css",
+    "static/js/main.4327452a.js"
   ]
 }
